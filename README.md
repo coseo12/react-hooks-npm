@@ -16,3 +16,9 @@ Collection of sexy React Hooks ready to install with NPM
 - [x] useFullscreen
 - [x] useNotification
 - [x] useAxios
+
+# NPM publish
+
+- npm login
+
+- npm publish --access public
