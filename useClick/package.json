@@ -1,0 +1,25 @@
+{
+  "name": "react-hooks-npm",
+  "version": "1.0.0",
+  "description": "Collection of sexy React Hooks ready to install with NPM",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/coseo12/react-hooks-npm.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "title"
+  ],
+  "author": "SCO <coseo1221@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/coseo12/react-hooks-npm/issues"
+  },
+  "homepage": "https://github.com/coseo12/react-hooks-npm#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
