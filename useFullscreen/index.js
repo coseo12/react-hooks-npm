@@ -1,4 +1,6 @@
-const useFullscreen = (callback) => {
+import { useRef } from 'react';
+
+export const useFullscreen = (callback) => {
   const element = useRef();
   const triggerFull = () => {
     if (element.current) {

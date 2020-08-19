@@ -1,4 +1,3 @@
-import defaultAxios from 'axios';
 import { useState, useEffect } from 'react';
 
 const useAxios = (opts, axiosInstance = defaultAxios) => {
